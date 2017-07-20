@@ -1,5 +1,6 @@
 # ignore data file
 eeg_data.mat
+tensorflow_summaries
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
