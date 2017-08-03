@@ -1,7 +1,5 @@
 # ignore data file
 eeg_data.mat
-tensorflow_summaries/*
-!tensorflow_summaries/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
