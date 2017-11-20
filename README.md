@@ -4,7 +4,7 @@ The goal is to classify brain electroencephalograms in 5 categories of sleep.
 
 This work is motivated by two reasons, using CNN on one-dimensional signals for
 classification task and comparing its performance to hand-tuned feature
-engineering. No feature engineering is done and raw signals is fed into the CNN.
+engineering. No feature engineering is done and raw signals is directly fed into a CNN.
 
 The architecture is built using TensorFlow.
 
